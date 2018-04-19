@@ -1,0 +1,12 @@
+---
+title: Bob Xu
+name: Name-2
+subtitle: Founder, Zhenfund
+layout: 2017_default
+modal-id: 1
+img: Bob.jpg
+thumbnail: Bob.jpg
+alt: Picture of TBD
+topic: Topic
+description: Bob Xu is the founder of ZhenFund. He is known as one of China’s pioneering angel investors, with distinctions from Founder Magazine including “2011 Angel Investor of the Year,” “2012 Best Angel Fund in China,” and “2013 Best Angel investor in China.” Prior to founding ZhenFund, Xu was a Co-Founder of New Oriental Education & Technology Group, the largest provider of private education in China. In 2006, China Southern People’s Weekly voted Xu to be one of China’s “50 Most Charismatic People” and in 2004, Forbes Magazine listed Xu as one of China’s “Top 100 Celebrities.”
+---

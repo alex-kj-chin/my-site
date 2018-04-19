@@ -1,0 +1,12 @@
+---
+title: Hans Tung
+name: Name-3
+subtitle: Managing Partner, GGV
+layout: 2017_default
+modal-id: 1
+img: hans.jpg
+thumbnail: hans.jpg
+alt: Picture of TBD
+topic: Topic
+description: Hans Tung joined GGV Capital in 2013 as a managing partner to focus on consumer mobile internet, cross-border ecommerce, IoT, and mobile social communication investments in both China and the U.S. Hans led GGV’s investment and serves on the boards of Wish, a fast growing cross border mobile commerce marketplace; Xiaohongshu, a leading active social community and recommendation app for cross-border shopping in China; Poshmark, a simple and fun way to buy and sell fashion; GrubMarket, a marketplace for local farm goods; and OfferUp, a place for consumers to buy and sell goods locally.  He has invested in mobile social communication companies such as musical.ly, highly popular video social network for creating, sharing and discovering short videos; Slack, which brings all your communication together in one place;  Bustle, an online community providing a fresh spin on information and all subjects;  Wheelwell, a market network for automotive parts and services and Curse, a social communication platform for gamers that was acquired by Twitch. Hans is a personal investor in leading Indian e-commerce companies Flipkart and Snapdeal. He is also actively involved with GGV portfolio companies Airbnb, Flipboard, DraftKings, and Yodo1. Recently, he invested in Function of Beauty, a personalized beauty product provider. Hans was part of the Forbes Midas List four times in a row in 2013, 2014, 2015, 2016, and 2017 including No. 19 in the world in 2017.
+---

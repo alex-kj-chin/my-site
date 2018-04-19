@@ -1,0 +1,12 @@
+---
+title: Anna Fang
+name: Name-1
+subtitle: Partner and CEO, Zhenfund
+layout: 2017_default
+modal-id: 1
+img: anna.jpg
+thumbnail: anna.jpg
+alt: Picture of TBD
+topic: Topic
+description: Anna Fang is the CEO and Partner of ZhenFund, an angel investment fund active in China’s TMT sector. Anna oversees the fund’s investments, portfolio management and operations. Since starting the fund in 2011 with Xu Xiaoping, Anna has managed the fund’s over 300 early stage investments. She also sits on the Boards of many of ZhenFund’s investments. Before joining ZhenFund, Anna worked at GE China in Corporate Business Development, responsible for GE’s M&A and BD efforts in China. Anna started her career as an investment banker with J.P. Morgan in the New York office covering consumer and retail companies. Anna is an Advisory Board member of Columbia University’s East Asia Center and also serves on the Board of Visitors of Columbia College. Anna is also the co-head of Stanford Graduate School of Business’ Beijing Chapter. Anna received her undergraduate degree from Columbia University, and a Master of Business Administration from Stanford Graduate School of Business.
+---

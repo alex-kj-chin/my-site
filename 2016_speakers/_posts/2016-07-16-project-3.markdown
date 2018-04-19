@@ -1,0 +1,12 @@
+---
+title: Bob Xu
+name: Name-3
+subtitle: Founder, Zhenfund
+layout: 2016_default
+modal-id: 1
+img: TBD.jpg
+thumbnail: TBD.jpg
+alt: Picture of TBD
+topic: Topic
+description: More Info
+---
